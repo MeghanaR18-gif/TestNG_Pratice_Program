@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/meghana.r/Desktop/OLA Backup/IdeaProjects/TestNG_Pratice_Program/src/test/java/org/Dependency/DependencyTests.java">
+        <classes>
+            <class name="org.Dependency.DependencyTests">
+                <methods>
+                    <include name="TC_launchURL"/>
+                    <include name="TC_maximizeBrowser"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

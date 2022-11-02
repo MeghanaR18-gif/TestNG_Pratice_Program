@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/Users/meghana.r/Desktop/OLA Backup/IdeaProjects/TestNG_Pratice_Program/src/test/java/org/Dependency/DependencyTests.java(failed)">
+    <classes>
+      <class name="org.Dependency.DependencyTests">
+        <methods>
+          <include name="TC_maximizeBrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- org.Dependency.DependencyTests -->
+    </classes>
+  </test> <!-- /Users/meghana.r/Desktop/OLA Backup/IdeaProjects/TestNG_Pratice_Program/src/test/java/org/Dependency/DependencyTests.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

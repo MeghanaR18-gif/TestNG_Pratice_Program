@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Annotations test">
+    <test verbose="2" preserve-order="true" name="/Users/meghana.r/Desktop/OLA Backup/IdeaProjects/TestNG_Pratice_Program/src/test/java/org/Annotations/Tests/TestNGAnnotations.java">
+        <classes>
+            <class name="org.Annotations.Tests.TestNGAnnotations">
+            <methods>
+                <include name="Test1"/>
+                <include name="Test2"/>
+                <include name="Test3"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
